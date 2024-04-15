@@ -30,7 +30,7 @@ void AKA_run_test(std::string name, AKA_Test test, int iterator);
 //  BEGIN TEST PATH SECTION           //
 ////////////////////////////////////////
 
-#define AKA_TEST_PATH_FILE "/home/thanhyk14/Desktop/aka414/aka-working-space/aka414/test-paths/BtaTest_BtaTest_UtcTe_manual_0.tp"
+#define AKA_TEST_PATH_FILE "/home/thanhyk14/Desktop/aka414/aka-working-space/vfwr/test-paths/BtaTest_BtaTest_UtcTe_manual_0.tp"
 
 void AKA_append_test_path(std::string content);
 
@@ -51,7 +51,7 @@ int AKA_mark(char * append)
 //  BEGIN TEST RESULT SECTION         //
 ////////////////////////////////////////
 
-#define AKA_EXEC_TRACE_FILE "/home/thanhyk14/Desktop/aka414/aka-working-space/aka414/execution-results/BtaTest_BtaTest_UtcTe_manual_0.trc"
+#define AKA_EXEC_TRACE_FILE "/home/thanhyk14/Desktop/aka414/aka-working-space/vfwr/execution-results/BtaTest_BtaTest_UtcTe_manual_0.trc"
 
 void AKA_append_test_result(std::string content);
 
@@ -203,7 +203,7 @@ void AKA_tear_down();
 
 
 // Include akaignore file
-#include "/home/thanhyk14/Desktop/aka414/aka-working-space/aka414/instruments/uu.akaignore.cpp"
+#include "/home/thanhyk14/Desktop/aka414/aka-working-space/vfwr/instruments/uu.akaignore.cpp"
 /** Guard statement to avoid multiple declaration */
 #ifndef AKA_GLOBAL_AKA_INSTANCE___BtaTest
 #define AKA_GLOBAL_AKA_INSTANCE___BtaTest
