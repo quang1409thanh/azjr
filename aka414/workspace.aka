@@ -1,0 +1,72 @@
+{
+  "lcovPath": "../aka-working-space/aka414/lcov",
+  "envirUserCodeDirectory": "../aka-working-space/aka414/user_code/environment",
+  "instrumentDirectory": "../aka-working-space/aka414/instruments",
+  "paramUserCodeDirectory": "../aka-working-space/aka414/user_code/parameter",
+  "testCaseUserCodeDirectory": "../aka-working-space/aka414/user_code/testcase",
+  "nStatementPath": "../aka-working-space/aka414/nStatements.json",
+  "nBranchPath": "../aka-working-space/aka414/nBranches.json",
+  "nMcdcPath": "../aka-working-space/aka414/nMcdcs.json",
+  "nBasicPath": "../aka-working-space/aka414/nBasicPaths.json",
+  "testDriverDirectory": "../aka-working-space/aka414/test-drivers",
+  "headerPreprocessorDirectory": "../aka-working-space/aka414/header-preprocessor",
+  "stubCodeDirectory": "../aka-working-space/aka414/stubs",
+  "fullReportDirectory": "../aka-working-space/aka414/reports/full",
+  "executionReportDirectory": "../aka-working-space/aka414/reports/execution",
+  "testDataReportDirectory": "../aka-working-space/aka414/reports/test-data",
+  "reportDirectory": "../aka-working-space/aka414/reports",
+  "functionConfigDirectory": "../aka-working-space/aka414/function-configs",
+  "executableFolderDirectory": "../aka-working-space/aka414/exe",
+  "commandFile": "../aka-working-space/aka414/compilation.aka",
+  "testingProject": "../../srrc",
+  "currentEnvironmentName": "aka414",
+  "environmentFile": "./aka-working-space/aka414.env",
+  "testscriptFile": "./aka-working-space/aka414.tst",
+  "testcaseDirectory": "../aka-working-space/aka414/test-cases",
+  "dependencyDirectory": "../aka-working-space/aka414/dependencies",
+  "physicalJsonFile": "../aka-working-space/aka414/physical_tree.json",
+  "probePointDirectory": "../aka-working-space/aka414/probepoints",
+  "regressionScriptDirectory": "../aka-working-space/aka414/regression-scripts",
+  "compoundTestcaseDirectory": "../aka-working-space/aka414/test-cases/compounds",
+  "testcaseCommandsDirectory": "../aka-working-space/aka414/test-case-commands",
+  "testpathDirectory": "../aka-working-space/aka414/test-paths",
+  "coverageDirectory": "../aka-working-space/aka414/coverages",
+  "debugDirectory": "../aka-working-space/aka414/debugger",
+  "breakpointDirectory": "../aka-working-space/aka414/debugger/breakpoints",
+  "debugLogDirectory": "../aka-working-space/aka414/debugger/log",
+  "debugCommandsDirectory": "../aka-working-space/aka414/debugger/commands",
+  "executionResultDirectory": "../aka-working-space/aka414/execution-results",
+  "elementDirectory": "../aka-working-space/aka414/element",
+  "versionComparisonDirectory": "../aka-working-space/aka414/difference",
+  "defaultFunctionConfig": {
+    "theMaximumNumberOfIterations": 10,
+    "floatAndDoubleDelta": 0.1,
+    "solvingStrategy": "USER_BOUND_STRATEGY",
+    "boundOfPointer": {
+      "lower": "0",
+      "upper": "3"
+    },
+    "boundOfArray": {
+      "lower": "1",
+      "upper": "3"
+    },
+    "boundOfOtherCharacterVars": {
+      "lower": "MIN",
+      "upper": "MAX"
+    },
+    "boundOfOtherNumberVars": {
+      "lower": "MIN",
+      "upper": "MAX"
+    },
+    "testdataGenStrategy": "BEST COVERAGE",
+    "testdataExecStrategy": "MULTIPLE_COMPILATION"
+  },
+  "templateFunctionDirectory": "../aka-working-space/aka414/template_functions",
+  "templateTypeDirectory": "../aka-working-space/aka414/template_type",
+  "boundOfDataTypeDirectory": "../aka-working-space/aka414/datatypebound",
+  "userCodeDirectory": "../aka-working-space/aka414/user_code",
+  "constraintFolder": "../aka-working-space/aka414/constraints",
+  "cteFolder": "../aka-working-space/aka414/cte",
+  "undefinedFunctionFolder": "../aka-working-space/aka414/undefined-functions",
+  "tempFolder": "../aka-working-space/aka414/temp"
+}
